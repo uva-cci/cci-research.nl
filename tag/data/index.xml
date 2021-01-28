@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data | Complex Cyber-Infrastructures (CCI)</title>
+    <link>https://cci-research.nl/tag/data/</link>
+      <atom:link href="https://cci-research.nl/tag/data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_2.png</url>
+      <title>Data</title>
+      <link>https://cci-research.nl/tag/data/</link>
+    </image>
+    
+    <item>
+      <title>Run, Agent, Run! Architecture and Benchmark of Actor-based Agents</title>
+      <link>https://cci-research.nl/publication/agere2020_mostafa/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://cci-research.nl/publication/agere2020_mostafa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DL4LD</title>
+      <link>https://cci-research.nl/project/dl4ld/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://cci-research.nl/project/dl4ld/</guid>
+      <description>&lt;p&gt;The DL4lD research project aims to help the Dutch logistics sector with digitalisation of their busines processes. To do so, DL4LD focuses on the trustworthy sharing of an organizations (potentially sensitive) data. Trust that the organization’s (potentially sensitive) data is handled in a controlled and secure way, is for many organizations a prerequisite sine qua non the organization may not be prepared to share its data.&lt;/p&gt;
+&lt;p&gt;A focal point of the DL4LD research is on maintaining sovereignty by the data owner over the access, usage, processing and proliferation of his data  DL4LD shows how to digitally support sufficient trust and sovereignty enablers to establish a trustworthy data sharing relationship between two  logistic partners that didn&amp;rsquo;t have so a priori.&lt;/p&gt;
+&lt;p&gt;The DL4LD-project runs from January 2018 to December 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EPI</title>
+      <link>https://cci-research.nl/project/epi/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://cci-research.nl/project/epi/</guid>
+      <description>&lt;p&gt;Knowledge is power &amp;ndash; and in healthcare, that holds absolutely true. Yet, for an industry that is under financial stress, increasing complexity of disease and co-morbidity, and burdened by capacity constraints &amp;ndash; why has data not been healthcare&amp;rsquo;s savvier? Three major challenges have inhibited this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;data is not accessible and remains in silos;&lt;/li&gt;
+&lt;li&gt;data is not analysed to derive meaningful clinical insights;&lt;/li&gt;
+&lt;li&gt;insight isn&amp;rsquo;t accessible for actioning by providers or patients to self/joint manage their condition.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Our consortium of medical professionals, data scientists, IT-infrastructure experts, machine learning researchers and legal experts have designed Enabling Patient Interventions to liberate, analyse, and action that data in a trustworthy way. EPI aims to empower patients and providers through self-management, shared management, and personalization across the full health spectrum. To do so, we will build a fuller picture of the person by linking traditional eHealth data sets with new sources of data. Further, we will develop a platform based upon a secure and trustworthy distributed data infrastructure, combining data analytics, including machine learning, and health decision support algorithms to create new, actionable, and personalized insights for prevention, management, and intervention to providers and patients. We will develop new machine learning methods for determining and analysing optimal interventions within small patient groups.&lt;/p&gt;
+&lt;p&gt;Our insights will be applied in healthcare use cases representing a spectrum of health management challenges ranging from common chronic to highly lethal orphan diseases, and will empower better self/joint management of these conditions to improve cost, quality, and outcomes of care.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SSPDDP</title>
+      <link>https://cci-research.nl/project/sspddp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://cci-research.nl/project/sspddp/</guid>
+      <description>&lt;p&gt;This proposal concerns multidisciplinary fundamental and applied research on developing a secure, end-to-end trusted, scalable and future-proof solution for distributed dynamic data sharing across multiple logistic domains. Sharing data across organizations in a secure, trusted and policy based manner, and enforcing the agreed use of that data is a hard problem. Many partial solutions already exist in the form of platforms, standards and directives, and back office solutions, all of them aimed at sharing data with their own goals and objectives. The absence of integrated solutions is hindering the potential exploitation of fused big data. Indeed, the research line “Data security in logistics” in the call underlines the importance of integrated cryptographically secure solutions.&lt;/p&gt;
+&lt;p&gt;In our proposal, typical logistics application profiles on specific demands in security, privacy, performance and policy will be identified. The goal of the proposed research is to develop end-to-end trusted and scalable solutions for typical application profiles that allow policy enforced data sharing and analysis across multiple IT domains based on negotiation of smart multi-party contracts. To achieve our goals, we will develop and integrate techniques for secure data sharing, scalability for big data, and policy-based data sharing and analytics. The ability to form temporary business alliances relies on the ability to implement ways to keep track of business agreements and transaction information in ways trusted by community members. The agility and diversity of market players, its data sources and potential risks if data is misused, is helped by creating a commonly trusted and governed infrastructure to access and share data. Such type of infrastructure is subject of research in Compartiment 1 of this call. In this proposal we will work alongside this work in order to investigate the value that blockchain technology will bring tosharing big data assets in a big data sharing infrastructure. The ability to provided trusted information from many distributed sources, such as mobile of tablet style devices that to not have to computational power to participate in traditional blockchain approaches, is an important topic address by this work. The aim is to not only protect primary data and limit accessibility via policy, but also to secure access to the provenance trails and other meta-data that are sensitive.&lt;/p&gt;
+&lt;h4 id=&#34;the-main-goals-of-this-project-are&#34;&gt;The main goals of this project are:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Prove the value of distribute block chain approaches that can be applied to logistic use-cases (provided by industry partners and compartment 1 collaborators)&lt;/li&gt;
+&lt;li&gt;Provide a future proof cryptographic approach considering the processing power quantum computing and other high performance compute technologies may bring.&lt;/li&gt;
+&lt;li&gt;Provide an environment allowing parties to create data sharing agreements compliant to the digital market place policy thus guaranteeing secure and trustworthy real time sharing of big data.&lt;/li&gt;
+&lt;li&gt;Provide secure mechanisms for compliancy checking using provenance trails and audit trails, and mechanisms for dispute settlement in case of breaches.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
