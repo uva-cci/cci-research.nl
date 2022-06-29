@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/category/news/</link><atom:link href="https://cci-research.nl/category/news/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_2.png</url><title>News</title><link>https://cci-research.nl/category/news/</link></image><item><title>Paper accepted at SEAA 2022</title><link>https://cci-research.nl/post/paper-accept-seaa2022/</link><pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/paper-accept-seaa2022/</guid><description>&lt;p>The paper &amp;ldquo;UMLsec4Edge: Extending UMLsec to model data-protection-compliant edge computing systems&amp;rdquo; has been accepted as a full paper at the 48th Euromicro Conference on Software Engineering and Advanced Applications (SEAA 2022).
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/category/news/</link><atom:link href="https://cci-research.nl/category/news/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_2.png</url><title>News</title><link>https://cci-research.nl/category/news/</link></image><item><title>SLICES-PP Receives Funding from the European Commission</title><link>https://cci-research.nl/post/slices-pp/</link><pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/slices-pp/</guid><description>&lt;p>Scientific Large Scale Infrastructure for Computing/Communication
+Experimental Studies -preparation project (SLICES-PP) is a project with
+25 partners and a budget of 3 M€ for 4 years. The UvA will receive 303
+K€ and it will be led by Yuri Demchenko of the Informatics Institute.&lt;/p>
+&lt;p>Demchenko, from the CCI (Complex Cyber Infrastructure) group, will
+coordinate two topics in SLICES-PP, first Research Data Management in
+the SLICES infrastructure, and secondly SLICES capacity building and
+career management.&lt;/p>
+&lt;p>As a part of activities in SLICES-PP, UvA will also facilitate creating
+a SLICES-NL community and involving Dutch research organizations and
+universities. The goal is to define the research agenda for SLICES-NL
+and coordinate efforts to obtain national funding. In this connection,
+new SLICES-NL coordination meetings will be organised.&lt;/p>
+&lt;p>SLICES as a European Research Infrastructure aims to make a fundamental
+contribution to research and innovation in digital sciences and
+infrastructures, future Internet technologies, future smart networks and
+services by providing high quality experimentation services with
+emerging technologies around the area of digital sciences.&lt;/p>
+&lt;p>The new research infrastructure will allow academics and industry to
+experiment and test future, possibly disruptive digital technologies,
+essential for European research. This infrastructure can be beneficial
+for other scientific and engineering domains, such as smart cities,
+energy, green technologies and healthcare.&lt;/p>
+&lt;p>SLICES-PP will coordinate the preparatory stage to build the future
+SLICES Research Infrastructure for Digital Technologies experimentation.
+The project was submitted by consortium of 25 research institutions and
+centers from 15 countries.&lt;/p>
+&lt;p>SLICES-RI (Research Infrastructure) is included in the ESFRI Roadmap
+2021 as a new RI for digital technologies experimentation, together with
+other already existing RI and e-Infrastructures.&lt;/p>
+&lt;p>&lt;a href="https://slices-ri.eu/" target="_blank" rel="noopener">More Information&lt;/a>&lt;/p></description></item><item><title>Paper accepted at SEAA 2022</title><link>https://cci-research.nl/post/paper-accept-seaa2022/</link><pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/paper-accept-seaa2022/</guid><description>&lt;p>The paper &amp;ldquo;UMLsec4Edge: Extending UMLsec to model data-protection-compliant edge computing systems&amp;rdquo; has been accepted as a full paper at the 48th Euromicro Conference on Software Engineering and Advanced Applications (SEAA 2022).
 The paper, authored by &lt;a href="https://cci-research.nl/author/zoltan-mann/" target="_blank" rel="noopener">Zoltan Mann&lt;/a> with co-authors from the University of Duisburg-Essen, presents a new UML profile for improved modeling of data protection aspects in edge computing systems.
 The practical applicability of the new UML profile is demonstrated with the use cases of the EU-funded research project FogProtect.&lt;/p></description></item><item><title>Change of Group Leadership</title><link>https://cci-research.nl/post/change-leader/</link><pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/change-leader/</guid><description>&lt;p>As of 1 June 2022, leadership of the Complex Cyber Infrastructure research group was transferred from Prof. Cees de Laat to Dr. Zoltan Mann.&lt;/p>
 &lt;p>&lt;a href="https://cci-research.nl/author/cees-de-laat/" target="_blank" rel="noopener">Prof.dr.ir. Cees de Laat&lt;/a> chaired the System and Network Engineering (SNE) research group since 2006. SNE became so large that on his proposal it was split into three successful research groups in 2020: Complex Cyber Infrastructure (CCI), the Multiscale Networked Systems (MNS), and Parallel Computing Systems (PCS) research groups. Prof. de Laat chaired CCI since the split. His retirement is coming up later this year.&lt;/p>
