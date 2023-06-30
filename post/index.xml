@@ -12,7 +12,30 @@ work at CompSys 2023 and received the Best Short Paper Award. Congratulations, M
 is the premier forum for Dutch research into Computer Systems research. The aim
 is to showcase success stories while also fostering and strengthening collaboration.
 CompSys 2023 was hosted at &lt;a href="https://www.kontaktderkontinenten.nl/" target="_blank" rel="noopener">Hotel Kontakt der Kontinenten&lt;/a>
-in Soesterberg.&lt;/p></description></item><item><title>Just happened: Programming Languages in the Netherlands (PLNL) 2023</title><link>https://cci-research.nl/post/plnl-2023/</link><pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/plnl-2023/</guid><description>&lt;p>The workshop Programming Languages in the Netherlands, supported by &lt;a href="https://versen.nl" target="_blank" rel="noopener">VERSEN&lt;/a>, was a big success. A 12-presentation programme enticed plenty of discussion amoung the 50-60 participants. The CCI group contributed by organising the event (Thomas and Grace) and by giving two talks (Christopher on Seaso and Damian on language services).&lt;/p>
+in Soesterberg.&lt;/p></description></item><item><title>Paper Published at ACM Computing Surveys</title><link>https://cci-research.nl/post/paper-published-csur/</link><pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/paper-published-csur/</guid><description>&lt;p>The paper &amp;lsquo;A Survey on Thwarting Memory Corruption in RISC-V&amp;rsquo;, authored by
+Marco Brohet and Francesco Regazzoni, has been published at ACM Computing Surveys.&lt;/p>
+&lt;p>The paper is published as open-access and can be found in ACM&amp;rsquo;s
+&lt;a href="https://doi.org/10.1145/3604906" target="_blank" rel="noopener">Digital Library&lt;/a>.&lt;/p>
+&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>With embedded devices becoming more pervasive and entrenched in society, it is
+paramount to keep these systems secure. A threat plaguing these systems consists
+of software vulnerabilities that cause memory corruption, potentially allowing
+an attacker to breach the device. Software-based countermeasures exist, but
+suffer from high overhead. In this survey, we investigate whether this could be
+mitigated using dedicated hardware. Driven by the advancements of open hardware,
+we focus on implementations for RISC-V, a novel and open architecture tailored
+for customization. We distinguish between methods validating memory accesses
+beforehand, obfuscating information necessary for an attack, and detecting
+memory values corrupted earlier. We compare on qualitative metrics, such as the
+security coverage and level of transparency, and performance in both software
+and hardware. Although current implementations do not easily allow for a fair
+comparison as their evaluation methodologies vary widely, we show that current
+implementations are suitable to minimize the runtime overhead with a relatively
+small area overhead. Nevertheless, we identified that further research is still
+required to mitigate more fine-grained attacks such as intra-object overflows,
+to integrate into more sophisticated protected execution environments towards,
+resilient systems that are automatically recoverable, and to move towards more
+harmonized evaluation.&lt;/p></description></item><item><title>Just happened: Programming Languages in the Netherlands (PLNL) 2023</title><link>https://cci-research.nl/post/plnl-2023/</link><pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/plnl-2023/</guid><description>&lt;p>The workshop Programming Languages in the Netherlands, supported by &lt;a href="https://versen.nl" target="_blank" rel="noopener">VERSEN&lt;/a>, was a big success. A 12-presentation programme enticed plenty of discussion amoung the 50-60 participants. The CCI group contributed by organising the event (Thomas and Grace) and by giving two talks (Christopher on Seaso and Damian on language services).&lt;/p>
 &lt;p>Many thanks to Grace for the help in organising the event, resulting in a very smooth workshop experience. The attached pictures give an impression of the event hosted in the Doelenzaal of the university library.&lt;/p>
 &lt;p>PLNL is still looking for organisers for next year.&lt;/p>
 &lt;p>&lt;img src="crowd.jpg" alt="PLNL2023">&lt;/p></description></item><item><title>Inter-faculty UvA funding success for CCI projects</title><link>https://cci-research.nl/post/rdt-projects-2023/</link><pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/rdt-projects-2023/</guid><description>&lt;p>Please find &lt;a href="https://www.uva.nl/en/content/news/news/2023/05/theme-based-collaboration-enters-next-phase-with-awarding-of-midsize-projects-and-seed-grants.html" target="_blank" rel="noopener">this&lt;/a> announcement on the internal (UvA) funding awarded for interdisciplinary research within certain themes.&lt;/p>
