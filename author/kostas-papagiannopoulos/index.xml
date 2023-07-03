@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kostas Papagiannopoulos | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/author/kostas-papagiannopoulos/</link><atom:link href="https://cci-research.nl/author/kostas-papagiannopoulos/index.xml" rel="self" type="application/rss+xml"/><description>Kostas Papagiannopoulos</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_2.png</url><title>Kostas Papagiannopoulos</title><link>https://cci-research.nl/author/kostas-papagiannopoulos/</link></image><item><title>Call for Papers: CARDIS 2023</title><link>https://cci-research.nl/post/cardis-2023/</link><pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/cardis-2023/</guid><description>&lt;p>CARDIS has been the venue for security experts from industry and academia to
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kostas Papagiannopoulos | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/author/kostas-papagiannopoulos/</link><atom:link href="https://cci-research.nl/author/kostas-papagiannopoulos/index.xml" rel="self" type="application/rss+xml"/><description>Kostas Papagiannopoulos</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_2.png</url><title>Kostas Papagiannopoulos</title><link>https://cci-research.nl/author/kostas-papagiannopoulos/</link></image><item><title>Paper Presented at IJCNN 2023</title><link>https://cci-research.nl/post/ijcnn-2023/</link><pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/ijcnn-2023/</guid><description>&lt;p>&lt;em>Tom (left) and Danny at their research poster. Photo courtesy of Danny.&lt;/em>&lt;/p>
+&lt;p>Danny van den Berg, &lt;a href="https://www.uva.nl/programmas/bachelors/beta-gamma/beta-gamma.html" target="_blank" rel="noopener">BSc Natural and Social Sciences&lt;/a>
+student majoring in Artificial Intelligence, wrote his thesis under the supervision
+of Tom Slooff (&lt;a href="https://usi.to/bbhb" target="_blank" rel="noopener">USI&lt;/a>) and CCI. The resulting paper,
+&lt;em>&amp;lsquo;Data Under Siege: The Quest for the Optimal Convolutional Autoencoder in
+Side-Channel Attacks&amp;rsquo;&lt;/em>, co-authored with Tom Slooff, Marco Brohet, Kostas
+Papagiannopoulos, and Francesco Regazzoni, was accepted to be presented at
+IJCNN 2023. Congratulations, Danny!&lt;/p>
+&lt;p>The &lt;a href="https://2023.ijcnn.org/" target="_blank" rel="noopener">International Joint Conference on Neural Networks (IJCNN)&lt;/a>
+is the premier international conference in the area of neural networks theory,
+analysis and applications. IJCNN 2023 was hosted at the &lt;a href="https://www.gccec.com.au/" target="_blank" rel="noopener">Gold Coast Convention and Exhibition Centre&lt;/a>
+in Queensland, Australia.&lt;/p>
+&lt;h1 id="abstract">Abstract&lt;/h1>
+&lt;p>Encryption is a method to keep our data safe from third parties. However,
+side-channel information may be leaked during encryption due to physical
+properties. This information can be used in side-channel attacks to recover
+critical values such as the secret encryption key. To this end, it is necessary
+to understand the robustness of implementations to assess the security of data
+handled by a device. Side-channel attacks are one such method which allow
+researchers to evaluate the robustness of implementations using appropriate
+metrics.&lt;/p>
+&lt;p>In the security community, machine learning is playing a
+prominent role in the study of side-channel attacks. A notable
+example of this is the use of Convolutional Autoencoders (CAE)
+as a preprocessing step on the measurements. In this work
+we study in depth the problem of finding the most suitable
+architecture of such Convolutional Autoencoders. To this end,
+Optuna is used to explore the CAE hyperparameter space. This
+process allows us to identify hyperparameters that outperform
+state-of-the-art autoencoders, reducing the needed traces for
+a succesful attack by approximately 37% in the presence of
+Gaussian noise and reducing the trainable parameters needed
+to attack desynchronization by a factor of 29. In addition to the
+promising results, experiments carried out in this paper allow
+a better understanding of the hyperparameter space in the field
+of side channel attacks, providing a solid base for future use of
+CAE in this specific domain.&lt;/p></description></item><item><title>Call for Papers: CARDIS 2023</title><link>https://cci-research.nl/post/cardis-2023/</link><pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/cardis-2023/</guid><description>&lt;p>CARDIS has been the venue for security experts from industry and academia to
 exchange on security of smart cards and related applications since 1994. Smart
 cards play an increasingly important role in our day-to-day life through their
 use in banking cards, SIM cards, electronic passports, and IoT devices. It is
