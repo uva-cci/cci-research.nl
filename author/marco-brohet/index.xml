@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marco Brohet | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/author/marco-brohet/</link><atom:link href="https://cci-research.nl/author/marco-brohet/index.xml" rel="self" type="application/rss+xml"/><description>Marco Brohet</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_2.png</url><title>Marco Brohet</title><link>https://cci-research.nl/author/marco-brohet/</link></image><item><title>Cryptographic Engineering</title><link>https://cci-research.nl/teaching/cryptographic_engineering/</link><pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/teaching/cryptographic_engineering/</guid><description/></item><item><title>CCI Demoing at Science Park's Open Day</title><link>https://cci-research.nl/post/open-day-2023/</link><pubDate>Sat, 07 Oct 2023 12:00:00 +0000</pubDate><guid>https://cci-research.nl/post/open-day-2023/</guid><description>&lt;p>As one of the three representing teams of our Informatics Institute at the Amsterdam
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marco Brohet | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/author/marco-brohet/</link><atom:link href="https://cci-research.nl/author/marco-brohet/index.xml" rel="self" type="application/rss+xml"/><description>Marco Brohet</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_2.png</url><title>Marco Brohet</title><link>https://cci-research.nl/author/marco-brohet/</link></image><item><title>Cryptographic Engineering</title><link>https://cci-research.nl/teaching/cryptographic_engineering/</link><pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/teaching/cryptographic_engineering/</guid><description/></item><item><title>Paper Accepted at DATE 2024</title><link>https://cci-research.nl/post/date-2024/</link><pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/date-2024/</guid><description>&lt;p>Our paper, &lt;strong>Demonstrating Post-Quantum Remote Attestation for RISC-V Devices&lt;/strong>,
+authored by Maximilian Barger (MSc Computer Security student at VU Amsterdam),
+Marco Brohet and Francesco Regazzoni, has been accepted as an extended abstract
+at the &lt;a href="https://www.date-conference.com/date-2024-accepted-papers" target="_blank" rel="noopener">2024 Design, Automation &amp;amp; Test in Europe Conference &amp;amp; Exhibition (DATE)&lt;/a>.&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>The rapid proliferation of Internet of Things (IoT)
+devices has revolutionized many aspects of modern computing.
+Experience has shown that these devices often have severe security
+problems and are common targets for malware. One approach to
+ensure that only trusted software is executed on these devices is
+Remote Attestation, which allows a verifier to attest the integrity
+of software running on such a prover device. As malware is
+typically not trusted, an infected device will fail to generate a
+valid signature, which allows the verifier to detect the presence
+of malware on the prover. To achieve its security guarantees,
+Remote Attestation requires a trust anchor, often found in the
+form of dedicated hardware on the prover. For IoT and embedded
+devices such hardware has only recently become largely deployed.
+Modern Remote Attestation protocols rely on classical asymmetric
+signatures that are vulnerable to quantum attacks, which are
+expected to become feasible in the near future. Considering the
+extensive usage of IoT and embedded systems combined with
+their long lifetime (in some applications), it is necessary to be
+able to retrofit these devices to support quantum secure Remote
+Attestation without incurring a prohibitive overhead. In this paper
+we present SPRAV, a software-based Remote Attestation system
+that leverages the Physical Memory Protection (PMP) primitive of
+RISC-V to achieve its security guarantees and employs quantum-
+safe cryptographic algorithms to ensure resistance against quan-
+tum attacks in the future. Our evaluation shows that it is feasible
+to deploy this solution on RISC-V devices without incurring a
+prohibitive overhead or the need for additional hardware, paving
+the way towards quantum-resistant functionalities also in IoT.&lt;/p></description></item><item><title>CCI Demoing at Science Park's Open Day</title><link>https://cci-research.nl/post/open-day-2023/</link><pubDate>Sat, 07 Oct 2023 12:00:00 +0000</pubDate><guid>https://cci-research.nl/post/open-day-2023/</guid><description>&lt;p>As one of the three representing teams of our Informatics Institute at the Amsterdam
 Science Park Open Day, CCI members Kyrian and Marco gave a demo on how scientists
 hack hardware&amp;ndash;in an effort to make it more secure, afterwards.&lt;/p>
 &lt;p>This was CCI&amp;rsquo;s second participation in the Open Day. It was a great success, with
