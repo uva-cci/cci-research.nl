@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link><atom:link href="https://cci-research.nl/index.xml" rel="self" type="application/rss+xml"/><description>Complex Cyber-Infrastructures (CCI)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link></image><item><title>Paper Accepted at FORTE 2024</title><link>https://cci-research.nl/post/discotec24/</link><pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/discotec24/</guid><description>&lt;p>On the 20th of June, Christopher Esterhuyse and Tim Mueller presented their paper (with L. Thomas van Binsbergen)
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link><atom:link href="https://cci-research.nl/index.xml" rel="self" type="application/rss+xml"/><description>Complex Cyber-Infrastructures (CCI)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link></image><item><title>Paper Accepted @GPCE24</title><link>https://cci-research.nl/post/paper-accepted-at-gpce24/</link><pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/paper-accepted-at-gpce24/</guid><description>&lt;p>The paper titled &lt;strong>On the Soundness of Auto-Completion Services for
+Dynamically Typed Languages&lt;/strong>
+by &lt;a href="https://cci-research.nl/author/damian-frolich/">Damian Frolich&lt;/a> and &lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>
+is accepted at the &lt;a href="https://2024.splashcon.org/home/gpce-2024" target="_blank" rel="noopener">23rd edition of the International Conference on Generative Programming: Concepts &amp;amp; Experience (GPCE)&lt;/a>.&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Giving auto-completion candidates for dynamically typed
+languages requires complex analysis of the source code,
+especially when the goal is to ensure that the completion candidates do not introduce bugs.
+In this paper we introduce an approach that builds upon abstract interpretation and the
+scope graph framework to obtain an over-approximation of
+the name binding seen at run-time. The over-approximation
+contains enough information to implement auto-completion
+services such that the given suggestions do not introduce
+name binding errors. To demonstrate our approach,
+we compare the suggestions given by our approach with the state
+of the art completion services on a subset of the Python
+programming language.&lt;/p></description></item><item><title>Paper Accepted at FORTE 2024</title><link>https://cci-research.nl/post/discotec24/</link><pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/discotec24/</guid><description>&lt;p>On the 20th of June, Christopher Esterhuyse and Tim Mueller presented their paper (with L. Thomas van Binsbergen)
 on the novel &lt;strong>JustAct&lt;/strong> framework at the &lt;a href="https://www.discotec.org/2024" target="_blank" rel="noopener">2024 DisCoTec&lt;/a> federated conference, held this year in Groningen.
 JustAct lays a foundation for the automatic enforcement of policies that are changed by the users on the fly.&lt;/p>
 &lt;h3 id="abstract">Abstract&lt;/h3>
