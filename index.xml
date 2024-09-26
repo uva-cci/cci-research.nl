@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link><atom:link href="https://cci-research.nl/index.xml" rel="self" type="application/rss+xml"/><description>Complex Cyber-Infrastructures (CCI)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link></image><item><title>Posters presented at CPS Summer School 2024</title><link>https://cci-research.nl/post/cps-2024/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/cps-2024/</guid><description>&lt;p>&lt;em>Photo courtesy of Angelos Dimoglis (&lt;a href="https://mns-research.nl/" target="_blank" rel="noopener">MNS&lt;/a>).&lt;/em>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link><atom:link href="https://cci-research.nl/index.xml" rel="self" type="application/rss+xml"/><description>Complex Cyber-Infrastructures (CCI)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link></image><item><title>3 Papers Accepted at SPLASH 2024</title><link>https://cci-research.nl/post/splash-conf-2024/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/splash-conf-2024/</guid><description>&lt;p>Members of the &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">Complex Cyber Infrastructure&lt;/a> group have been hard at work on the topic of software languages, developing methods and tools improving the productivity and control of programmers and language-designers.
+The latest contributions are being published in three articles, which will each be presented at &lt;a href="https://2024.splashcon.org/" target="_blank" rel="noopener">SPLASH 2024&lt;/a> in Pasadena, California.
+Each contribution provides a piece of the puzzle of developing large and complex software systems:&lt;/p>
+&lt;ol>
+&lt;li>Bridging Incremental Programming and Complex Software Development Environments
+&lt;ul>
+&lt;li>to be presented at &lt;a href="https://2024.splashcon.org/home/paint-2024" target="_blank" rel="noopener">PAINT&lt;/a>&lt;/li>
+&lt;li>by Max Boksem and Thomas van Binsbergen&lt;/li>
+&lt;li>Summary: This article characterises and demonstrates a fundamentally graph-based programming environment: programs are built from explicitly-linked parts. This approach has benefits from two different, existing kinds of programming environment, which together make program parts easier to maintain and re-use.&lt;/li>
+&lt;li>Links: &lt;a href="https://doi.org/10.1145/3689488.3689991" target="_blank" rel="noopener">DOI&lt;/a> and &lt;a href="https://ltvanbinsbergen.nl/files/papers/paint2024.pdf" target="_blank" rel="noopener">PRE-PRINT&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>On the Soundness of Auto-completion Services for Dynamically Typed Languages
+&lt;ul>
+&lt;li>to be presented at &lt;a href="https://2024.splashcon.org/home/gpce-2024" target="_blank" rel="noopener">GPCE&lt;/a>&lt;/li>
+&lt;li>by Damian Frölich and Thomas van Binsbergen&lt;/li>
+&lt;li>Summary: This article presents a novel mechanism for code editors to assist programmers by auto-suggesting identifiers. The novelty is that suggestions are based on an analysis of the program that is shallow enough to be fast and language-agnostic, but deep enough to guarantee suggestions are always valid.&lt;/li>
+&lt;li>Links: &lt;a href="https://doi.org/10.1145/3689484.3690734" target="_blank" rel="noopener">DOI&lt;/a> and &lt;a href="https://ltvanbinsbergen.nl/files/papers/gpce2024.pdf" target="_blank" rel="noopener">PRE-PRINT&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Cooperative Specification via Composition Control
+&lt;ul>
+&lt;li>to be presented at &lt;a href="https://2024.splashcon.org/track/sle-2024" target="_blank" rel="noopener">SLE&lt;/a>&lt;/li>
+&lt;li>by Christopher Esterhuyse and Thomas van Binsbergen&lt;/li>
+&lt;li>Summary: This article presents a framework for using specification languages in a context where the specifications are developed from parts by cooperating agents. Some language features that are useful for this purpose are identified, and used to improve three existing specification languages&lt;/li>
+&lt;li>Links: &lt;a href="https://doi.org/10.1145/3687997.3695635" target="_blank" rel="noopener">DOI&lt;/a> and &lt;a href="https://ltvanbinsbergen.nl/files/papers/sle2024.pdf" target="_blank" rel="noopener">PRE-PRINT&lt;/a>.&lt;/li>
+&lt;li>part of the &lt;a href="https://amdex.eu/" target="_blank" rel="noopener">AMdEX&lt;/a> project.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol></description></item><item><title>Posters presented at CPS Summer School 2024</title><link>https://cci-research.nl/post/cps-2024/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/cps-2024/</guid><description>&lt;p>&lt;em>Photo courtesy of Angelos Dimoglis (&lt;a href="https://mns-research.nl/" target="_blank" rel="noopener">MNS&lt;/a>).&lt;/em>&lt;/p>
 &lt;p>Francesco Regazzoni, Marco Brohet and Georgios Tasopoulos attended the CPS Summer School 2024
 on 16-20 September in Alghero, Italy. Marco and Georgios also presented posters about their research.&lt;/p>
 &lt;p>Cyber-physical systems (CPSs) are complex and autonomous ensembles of different components that
