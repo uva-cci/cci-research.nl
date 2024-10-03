@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Themes | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/theme/</link><atom:link href="https://cci-research.nl/theme/index.xml" rel="self" type="application/rss+xml"/><description>Themes</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Themes</title><link>https://cci-research.nl/theme/</link></image><item><title>Data Governance</title><link>https://cci-research.nl/theme/governance/</link><pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/theme/governance/</guid><description>&lt;p>The research in this theme addresses several challenges that arise from modern service-oriented systems in which the development and operationalisation of (software) services is distributed across organisational domains. These systems have in common that parties may play different roles in the realisation of applications, e.g., providing a service (such as creating data insights), infrastructure (such as compute or storage resources), or assets (such as datasets and algorithms). In such systems, organisations wish to retain control over the usage of their resources, e.g., to limit their availability, adhere to (privacy) regulations, or to protect commercial interests. To give control to resource owners, we propose systems in which policies are used to express usage constraints, mechanisms are available to enforce these constraints, and monitoring provides the information necessary for making enforcement decisions. Data exchange systems and digital data marketplaces are the primary application context, providing motivation and specific case studies.&lt;/p>
+&lt;p>Particular challenges addressed by our work are:&lt;/p>
+&lt;ul>
+&lt;li>The expression of laws, regulations, organisational policies and contractual agreements as enforceable system-level policies. This requires policy languages bridging the gap between legal statements and system-level events and distributed usage control mechanisms for policy enforcement.&lt;/li>
+&lt;li>The distribution of control itself: different stakeholders (users, resource owners) contribute parts of the policy and control mechanisms (besides their contribution to the application itself). How can the policies expressed at location A affect decisions made at location B, considering the desire to avoid centralisation and considering that policies themselves may be sensitive?&lt;/li>
+&lt;li>The automatic integration of formalised interpretations of legal sources places demands on the underlying enforcement mechanisms. Firstly, ex-post enforcement (observing and responding to violations after their occurrence) is required as not all information may be available or (interpretations of) legal sources may be conflicting. Secondly, policy decisions need to be accountable such that information on which these decisions are based (policies, meta-data, actual data) may need to be retained and may themselves by sensitive.&lt;/li>
+&lt;li>Compliance-by-design. How and to what extent can we schedule the execution of applications or reconfigure the system&amp;rsquo;s configuration to ensure compliance with identified policy requirements.&lt;/li>
+&lt;/ul>
+&lt;p>In this research theme we develop conceptual models, algorithms, protocols, languages and (prototype) tools that address these challenges.&lt;/p>
+&lt;h1 id="projects">Projects&lt;/h1>
+&lt;p>&lt;a href="https://cci-research.nl/project/amdex">&lt;img src="https://cci-research.nl/project/amdex/featured.png" width=200 style="display: inline;" />&lt;/a>
+&lt;a href="https://cci-research.nl/project/dl4ld">&lt;img src="https://cci-research.nl/project/dl4ld/featured.jpg" width=200 style="display: inline;" />&lt;/a>
+&lt;a href="https://cci-research.nl/project/epi">&lt;img src="https://cci-research.nl/project/epi/featured.png" width=200 style="display: inline;" />&lt;/a>
+&lt;a href="https://cci-research.nl/project/sspddp">&lt;img src="https://cci-research.nl/project/sspddp/featured.png" width=200 style="display: inline;" />&lt;/a>&lt;/p>
+&lt;h1 id="software">Software&lt;/h1>
+&lt;p>&lt;a href="https://cci-research.nl/software/eflint/">&lt;img src="https://cci-research.nl/software/eflint/featured.png" width=200 style="display: inline;"/>&lt;/a>
+&lt;a href="https://cci-research.nl/software/asc/">&lt;img src="https://cci-research.nl/software/asc/featured.png" width=200 style="display: inline;"/>&lt;/a>&lt;/p>
+&lt;h1 id="publications">Publications&lt;/h1>
+&lt;h2 id="2024">2024&lt;/h2>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/just-act-2024/" >JustAct: Actions Universally Justified by Partial Dynamic Policies&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/christopher-esterhuyse/">Christopher Esterhuyse&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tim-muller/">Tim Müller&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/just-act-2024/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/dmi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/epi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-031-62645-6_4" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://link.springer.com/chapter/10.1007/978-3-031-62645-6_4" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;h2 id="2023">2023&lt;/h2>
+&lt;p>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/zhou-2023/" >Enabling Collaborative Multi-Domain Applications: A Blockchain-Based Solution with Petri Net Workflow Modeling and Incentivization&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/reginald-cushing/">Reginald Cushing&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/xin-zhou/">Xin Zhou&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/adam-belloum/">Adam Belloum&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/paola-grosso/">Paola Grosso&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tom-van-engers/">Tom van Engers&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/cees-de-laat/">Cees de Laat&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/zhou-2023/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/dl4ld/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/eScience51609.2023.00056" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9582292" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/alsayed-kassem-2022/" >Utilisation Profiles of Bridging Function Chain for Healthcare Use Cases&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/jamila-alsayed-kassem/">Jamila Alsayed Kassem&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/adam-belloum/">Adam Belloum&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tim-muller/">Tim Müller&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/paola-grosso/">Paola Grosso&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/alsayed-kassem-2022/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/epi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/eScience55777.2022.00085" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9973638" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;/p>
+&lt;h2 id="2022">2022&lt;/h2>
+&lt;p>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/alsayed-kassem-2022/" >Utilisation Profiles of Bridging Function Chain for Healthcare Use Cases&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/jamila-alsayed-kassem/">Jamila Alsayed Kassem&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/adam-belloum/">Adam Belloum&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tim-muller/">Tim Müller&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/paola-grosso/">Paola Grosso&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/alsayed-kassem-2022/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/epi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/eScience55777.2022.00085" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9973638" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/mohajeri-parizi-2022/" >A Modular Architecture for Integrating Normative Advisors in MAS&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/mostafa-mohajeri-parizi/">Mostafa Mohajeri Parizi&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/giovanni-sileno/">Giovanni Sileno&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tom-van-engers/">Tom van Engers&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/mohajeri-parizi-2022/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/dl4ld/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/eScience55777.2022.00086" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://link.springer.com/chapter/10.1007/978-3-031-20614-6_18" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/salt-lake-city-2022/" >Exploring the Enforcement of Private, Dynamic Policies on Medical Workflow Execution&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/christopher-esterhuyse/">Christopher Esterhuyse&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tim-muller/">Tim Müller&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/adam-belloum/">Adam Belloum&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/salt-lake-city-2022/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/epi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/eScience55777.2022.00086" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9973688" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;/p>
+&lt;h2 id="2021">2021&lt;/h2>
+&lt;p>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/zhang-2021/" >Profiling and Discriminating of Containerized ML Applications in Digital Data Marketplaces (DDM)&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/lu-zhang/">Lu Zhang&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/reginald-cushing/">Reginald Cushing&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/ralph-koning/">Ralph Koning&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/cees-de-laat/">Cees de Laat&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/paola-grosso/">Paola Grosso&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/zhang-2021/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/epi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5220/0010254105080515" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.scitepress.org/Link.aspx?doi=10.5220/0010254105080515" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/van-binsbergen-dynamic-2022/" >Dynamic generation of access control policies from social policies&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/milen-girma-kebede/">Milen Girma Kebede&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/joshua-baugh/">Joshua Baugh&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tom-van-engers/">Tom van Engers&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/dannis-g.-van-vuurden/">Dannis G. van Vuurden&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/van-binsbergen-dynamic-2022/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.procs.2021.12.221" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://linkinghub.elsevier.com/retrieve/pii/S1877050921024601" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/valkering-2021/" >Brane: A Framework for Programmable Orchestration of Multi-Site Applications&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/onno-valkering/">Onno Valkering&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/reginald-cushing/">Reginald Cushing&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/adam-belloum/">Adam Belloum&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/valkering-2021/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/epi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/eScience51609.2021.00056" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9582292" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/alsayed-kassem-2021/" >EPI Framework: Approach for Traffic Redirection Through Containerised Network Functions&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/jamila-alsayed-kassem/">Jamila Alsayed Kassem&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/onno-valkering/">Onno Valkering&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/adam-belloum/">Adam Belloum&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/paola-grosso/">Paola Grosso&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/alsayed-kassem-2021/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/epi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/eScience51609.2021.00018" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9582400" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;/p>
+&lt;h2 id="2020">2020&lt;/h2>
+&lt;p>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/zhou-policy-2020/" >Policy Enforcement for Secure and Trustworthy Data Sharing in Multi-domain Infrastructures&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/xin-zhou/">Xin Zhou&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/reginald-cushing/">Reginald Cushing&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/ralph-koning/">Ralph Koning&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/adam-belloum/">Adam Belloum&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/paola-grosso/">Paola Grosso&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/sander-klous/">Sander Klous&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tom-van-engers/">Tom van Engers&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/cees-de-laat/">Cees de Laat&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/zhou-policy-2020/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/BigDataSE50710.2020.00022" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9343348/" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/van-binsbergen-eflint-2020/" >eFLINT: a domain-specific language for executable norm specifications&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/lu-chi-liu/">Lu-Chi Liu&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/robert-van-doesburg/">Robert van Doesburg&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tom-van-engers/">Tom van Engers&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/van-binsbergen-eflint-2020/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3425898.3426958" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dare.uva.nl/search?identifier=bb19cb35-c43e-4d70-81c9-8b6d3bdaa091" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;/p></description></item></channel></rss>
