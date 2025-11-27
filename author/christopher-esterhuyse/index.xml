@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Christopher Esterhuyse | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/author/christopher-esterhuyse/</link><atom:link href="https://cci-research.nl/author/christopher-esterhuyse/index.xml" rel="self" type="application/rss+xml"/><description>Christopher Esterhuyse</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Christopher Esterhuyse</title><link>https://cci-research.nl/author/christopher-esterhuyse/</link></image><item><title>3 Papers Accepted at SPLASH 2024</title><link>https://cci-research.nl/post/splash-conf-2024/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/splash-conf-2024/</guid><description>&lt;p>Members of the &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">Complex Cyber Infrastructure&lt;/a> group have been hard at work on the topic of software languages, developing methods and tools improving the productivity and control of programmers and language-designers.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Christopher Esterhuyse | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/author/christopher-esterhuyse/</link><atom:link href="https://cci-research.nl/author/christopher-esterhuyse/index.xml" rel="self" type="application/rss+xml"/><description>Christopher Esterhuyse</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Christopher Esterhuyse</title><link>https://cci-research.nl/author/christopher-esterhuyse/</link></image><item><title>A Stable Model Semantics for eFLINT Norm Specifications and Model Checking Scenarios.</title><link>https://cci-research.nl/publication/gpce2025/</link><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/gpce2025/</guid><description/></item><item><title>3 Papers Accepted at SPLASH 2024</title><link>https://cci-research.nl/post/splash-conf-2024/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/splash-conf-2024/</guid><description>&lt;p>Members of the &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">Complex Cyber Infrastructure&lt;/a> group have been hard at work on the topic of software languages, developing methods and tools improving the productivity and control of programmers and language-designers.
 The latest contributions are being published in three articles, which will each be presented at &lt;a href="https://2024.splashcon.org/" target="_blank" rel="noopener">SPLASH 2024&lt;/a> in Pasadena, California.
 Each contribution provides a piece of the puzzle of developing large and complex software systems:&lt;/p>
 &lt;ol>
@@ -45,6 +45,36 @@ Each contribution provides a piece of the puzzle of developing large and complex
 &lt;p>&lt;a href="https://cci-research.nl/software/eflint/">&lt;img src="https://cci-research.nl/software/eflint/featured.png" width=200 style="display: inline;"/>&lt;/a>
 &lt;a href="https://cci-research.nl/software/asc/">&lt;img src="https://cci-research.nl/software/asc/featured.png" width=200 style="display: inline;"/>&lt;/a>&lt;/p>
 &lt;h1 id="publications">Publications&lt;/h1>
+&lt;h2 id="2025">2025&lt;/h2>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/gpce2025/" >A Stable Model Semantics for eFLINT Norm Specifications and Model Checking Scenarios.&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/christopher-esterhuyse/">Christopher Esterhuyse&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tim-muller/">Tim Müller&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/gpce2025/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3425898.3426958" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3742876.3742882" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
 &lt;h2 id="2024">2024&lt;/h2>
 &lt;div class="media stream-item">
 &lt;div class="media-body">
