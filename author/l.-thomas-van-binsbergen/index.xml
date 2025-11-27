@@ -73,6 +73,7 @@ DOI
 &lt;/div>
 &lt;/div>
 &lt;h2 id="2024">2024&lt;/h2>
+&lt;p>
 &lt;div class="media stream-item">
 &lt;div class="media-body">
 &lt;h3 class="article-title mb-0 mt-0">
@@ -108,6 +109,29 @@ URL
 &lt;div class="ml-3">
 &lt;/div>
 &lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/oasics-epi-2024/" >Building a Digital Health Twin for Personalized Intervention: The EPI Project.&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/milen-girma-kebede/">Milen Girma Kebede&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tim-muller/">Tim Müller&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/cees-de-laat/">Cees de Laat&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/sander-klous/">Sander Klous&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/epi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.4230/OASIcs.Commit2Data.2" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;/p>
 &lt;h2 id="2023">2023&lt;/h2>
 &lt;p>
 &lt;div class="media stream-item">
@@ -455,7 +479,7 @@ programming language.&lt;/p></description></item><item><title>Paper Accepted at 
 on the novel &lt;strong>JustAct&lt;/strong> framework at the &lt;a href="https://www.discotec.org/2024" target="_blank" rel="noopener">2024 DisCoTec&lt;/a> federated conference, held this year in Groningen.
 JustAct lays a foundation for the automatic enforcement of policies that are changed by the users on the fly.&lt;/p>
 &lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Inter-organisational data exchange is regulated by norms originating from sources ranging from individual consent to (inter)national laws. Verifying norm-compliance is complex because laws (e.g., GDPR) distribute responsibility and require accountability. Moreover, in some domains (e.g., healthcare), the norms themselves may be private. In contrast, standard solutions (e.g., access- and usage-control, smart contracts) reason about policies that are assumed to be public. Instead, we present a novel framework prescribing how decentralised agents decide which actions are justified, despite their partial views of the policy. Crucially, justifications are universal, e.g., accepted by future auditors. Agents establish a common notion of compliance through an (externally synchronized) agreement, which is the basis of each justification defined by policy fragments agents autonomously create, gossip, and assemble.&lt;/p></description></item><item><title>Paper Accepted @JSS</title><link>https://cci-research.nl/post/paper-accepted-at-jss24-02/</link><pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/paper-accepted-at-jss24-02/</guid><description>&lt;p>The paper titled &lt;strong>iCoLa+: An extensible meta-language with support for exploratory language development&lt;/strong>
+&lt;p>Inter-organisational data exchange is regulated by norms originating from sources ranging from individual consent to (inter)national laws. Verifying norm-compliance is complex because laws (e.g., GDPR) distribute responsibility and require accountability. Moreover, in some domains (e.g., healthcare), the norms themselves may be private. In contrast, standard solutions (e.g., access- and usage-control, smart contracts) reason about policies that are assumed to be public. Instead, we present a novel framework prescribing how decentralised agents decide which actions are justified, despite their partial views of the policy. Crucially, justifications are universal, e.g., accepted by future auditors. Agents establish a common notion of compliance through an (externally synchronized) agreement, which is the basis of each justification defined by policy fragments agents autonomously create, gossip, and assemble.&lt;/p></description></item><item><title>Building a Digital Health Twin for Personalized Intervention: The EPI Project.</title><link>https://cci-research.nl/publication/oasics-epi-2024/</link><pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/oasics-epi-2024/</guid><description/></item><item><title>Paper Accepted @JSS</title><link>https://cci-research.nl/post/paper-accepted-at-jss24-02/</link><pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/paper-accepted-at-jss24-02/</guid><description>&lt;p>The paper titled &lt;strong>iCoLa+: An extensible meta-language with support for exploratory language development&lt;/strong>
 by Damian Frolich and L. Thomas van Binsbergen
 is accepted by the &lt;a href="https://www.sciencedirect.com/science/article/pii/S0164121224000220?via%3Dihub" target="_blank" rel="noopener">Journal of Systems and Software&lt;/a>.&lt;/p>
 &lt;h3 id="abstract">Abstract&lt;/h3>

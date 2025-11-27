@@ -44,6 +44,7 @@ DOI
 &lt;/div>
 &lt;/div>
 &lt;h2 id="2024">2024&lt;/h2>
+&lt;p>
 &lt;div class="media stream-item">
 &lt;div class="media-body">
 &lt;h3 class="article-title mb-0 mt-0">
@@ -79,6 +80,29 @@ URL
 &lt;div class="ml-3">
 &lt;/div>
 &lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/oasics-epi-2024/" >Building a Digital Health Twin for Personalized Intervention: The EPI Project.&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/milen-girma-kebede/">Milen Girma Kebede&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tim-muller/">Tim Müller&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/cees-de-laat/">Cees de Laat&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/sander-klous/">Sander Klous&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/epi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.4230/OASIcs.Commit2Data.2" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;/p>
 &lt;h2 id="2023">2023&lt;/h2>
 &lt;p>
 &lt;div class="media stream-item">
@@ -406,4 +430,4 @@ URL
 &lt;div class="ml-3">
 &lt;/div>
 &lt;/div>
-&lt;/p></description></item><item><title>Towards a Purpose-Based Access Control Model Derived from the Purpose Limitation Principle</title><link>https://cci-research.nl/publication/kebede-2023/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/kebede-2023/</guid><description/></item><item><title>Dynamic generation of access control policies from social policies</title><link>https://cci-research.nl/publication/van-binsbergen-dynamic-2022/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/van-binsbergen-dynamic-2022/</guid><description/></item><item><title>A Critical Reflection on ODRL</title><link>https://cci-research.nl/publication/rodriguez-doncel-critical-2021/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/rodriguez-doncel-critical-2021/</guid><description/></item></channel></rss>
+&lt;/p></description></item><item><title>Building a Digital Health Twin for Personalized Intervention: The EPI Project.</title><link>https://cci-research.nl/publication/oasics-epi-2024/</link><pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/oasics-epi-2024/</guid><description/></item><item><title>Towards a Purpose-Based Access Control Model Derived from the Purpose Limitation Principle</title><link>https://cci-research.nl/publication/kebede-2023/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/kebede-2023/</guid><description/></item><item><title>Dynamic generation of access control policies from social policies</title><link>https://cci-research.nl/publication/van-binsbergen-dynamic-2022/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/van-binsbergen-dynamic-2022/</guid><description/></item><item><title>A Critical Reflection on ODRL</title><link>https://cci-research.nl/publication/rodriguez-doncel-critical-2021/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/rodriguez-doncel-critical-2021/</guid><description/></item></channel></rss>
