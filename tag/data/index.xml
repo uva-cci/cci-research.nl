@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/tag/data/</link><atom:link href="https://cci-research.nl/tag/data/index.xml" rel="self" type="application/rss+xml"/><description>Data</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Data</title><link>https://cci-research.nl/tag/data/</link></image><item><title>Data Governance</title><link>https://cci-research.nl/theme/governance/</link><pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/theme/governance/</guid><description>&lt;p>The research in this theme addresses several challenges that arise from modern service-oriented systems in which the development and operationalisation of (software) services is distributed across organisational domains. These systems have in common that parties may play different roles in the realisation of applications, e.g., providing a service (such as creating data insights), infrastructure (such as compute or storage resources), or assets (such as datasets and algorithms). In such systems, organisations wish to retain control over the usage of their resources, e.g., to limit their availability, adhere to (privacy) regulations, or to protect commercial interests. To give control to resource owners, we propose systems in which policies are used to express usage constraints, mechanisms are available to enforce these constraints, and monitoring provides the information necessary for making enforcement decisions. Data exchange systems and digital data marketplaces are the primary application context, providing motivation and specific case studies.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/tag/data/</link><atom:link href="https://cci-research.nl/tag/data/index.xml" rel="self" type="application/rss+xml"/><description>Data</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Data</title><link>https://cci-research.nl/tag/data/</link></image><item><title>Programming Languages and Verification</title><link>https://cci-research.nl/theme/languagesandverification/</link><pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/theme/languagesandverification/</guid><description>&lt;p>&amp;hellip;&lt;/p>
+&lt;h1 id="projects">Projects&lt;/h1>
+&lt;p>&lt;a href="https://cci-research.nl/project/amdex">&lt;img src="https://cci-research.nl/project/amdex/featured.png" width=200 style="display: inline;" />&lt;/a>
+&lt;a href="">Mooi&lt;/a>&lt;/p>
+&lt;h1 id="software">Software&lt;/h1>
+&lt;p>&lt;a href="https://cci-research.nl/software/eflint/">&lt;img src="https://cci-research.nl/software/eflint/featured.png" width=200 style="display: inline;"/>&lt;/a>&lt;/p>
+&lt;h1 id="publications">Publications&lt;/h1>
+&lt;h2 id="2025">2025&lt;/h2>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/gpce2025/" >A Stable Model Semantics for eFLINT Norm Specifications and Model Checking Scenarios.&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/christopher-esterhuyse/">Christopher Esterhuyse&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tim-muller/">Tim Müller&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/gpce2025/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3742876.3742882" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;h2 id="2024">2024&lt;/h2>
+&lt;h2 id="2023">2023&lt;/h2>
+&lt;h2 id="2022">2022&lt;/h2>
+&lt;h2 id="2021">2021&lt;/h2>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/van-binsbergen-dynamic-2022/" >Dynamic generation of access control policies from social policies&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/milen-girma-kebede/">Milen Girma Kebede&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/joshua-baugh/">Joshua Baugh&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tom-van-engers/">Tom van Engers&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/dannis-g.-van-vuurden/">Dannis G. van Vuurden&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/van-binsbergen-dynamic-2022/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.procs.2021.12.221" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://linkinghub.elsevier.com/retrieve/pii/S1877050921024601" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;h2 id="2020">2020&lt;/h2>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/van-binsbergen-eflint-2020/" >eFLINT: a domain-specific language for executable norm specifications&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/lu-chi-liu/">Lu-Chi Liu&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/robert-van-doesburg/">Robert van Doesburg&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tom-van-engers/">Tom van Engers&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/van-binsbergen-eflint-2020/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3425898.3426958" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dare.uva.nl/search?identifier=bb19cb35-c43e-4d70-81c9-8b6d3bdaa091" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div></description></item><item><title>Data Governance</title><link>https://cci-research.nl/theme/governance/</link><pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/theme/governance/</guid><description>&lt;p>The research in this theme addresses several challenges that arise from modern service-oriented systems in which the development and operationalisation of (software) services is distributed across organisational domains. These systems have in common that parties may play different roles in the realisation of applications, e.g., providing a service (such as creating data insights), infrastructure (such as compute or storage resources), or assets (such as datasets and algorithms). In such systems, organisations wish to retain control over the usage of their resources, e.g., to limit their availability, adhere to (privacy) regulations, or to protect commercial interests. To give control to resource owners, we propose systems in which policies are used to express usage constraints, mechanisms are available to enforce these constraints, and monitoring provides the information necessary for making enforcement decisions. Data exchange systems and digital data marketplaces are the primary application context, providing motivation and specific case studies.&lt;/p>
 &lt;p>Particular challenges addressed by our work are:&lt;/p>
 &lt;ul>
 &lt;li>The expression of laws, regulations, organisational policies and contractual agreements as enforceable system-level policies. This requires policy languages bridging the gap between legal statements and system-level events and distributed usage control mechanisms for policy enforcement.&lt;/li>

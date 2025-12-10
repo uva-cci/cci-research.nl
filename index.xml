@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link><atom:link href="https://cci-research.nl/index.xml" rel="self" type="application/rss+xml"/><description>Complex Cyber-Infrastructures (CCI)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link></image><item><title>A Stable Model Semantics for eFLINT Norm Specifications and Model Checking Scenarios.</title><link>https://cci-research.nl/publication/gpce2025/</link><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/gpce2025/</guid><description/></item><item><title>Recent Academic and Research Milestones</title><link>https://cci-research.nl/post/max-recap/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/max-recap/</guid><description>&lt;p>Max is excited to share some updates from his journey with &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">CCI&lt;/a> over the past few months.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link><atom:link href="https://cci-research.nl/index.xml" rel="self" type="application/rss+xml"/><description>Complex Cyber-Infrastructures (CCI)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link></image><item><title>Programming Languages and Verification</title><link>https://cci-research.nl/theme/languagesandverification/</link><pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/theme/languagesandverification/</guid><description>&lt;p>&amp;hellip;&lt;/p>
+&lt;h1 id="projects">Projects&lt;/h1>
+&lt;p>&lt;a href="https://cci-research.nl/project/amdex">&lt;img src="https://cci-research.nl/project/amdex/featured.png" width=200 style="display: inline;" />&lt;/a>
+&lt;a href="">Mooi&lt;/a>&lt;/p>
+&lt;h1 id="software">Software&lt;/h1>
+&lt;p>&lt;a href="https://cci-research.nl/software/eflint/">&lt;img src="https://cci-research.nl/software/eflint/featured.png" width=200 style="display: inline;"/>&lt;/a>&lt;/p>
+&lt;h1 id="publications">Publications&lt;/h1>
+&lt;h2 id="2025">2025&lt;/h2>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/gpce2025/" >A Stable Model Semantics for eFLINT Norm Specifications and Model Checking Scenarios.&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/christopher-esterhuyse/">Christopher Esterhuyse&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tim-muller/">Tim Müller&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/gpce2025/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3742876.3742882" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;h2 id="2024">2024&lt;/h2>
+&lt;h2 id="2023">2023&lt;/h2>
+&lt;h2 id="2022">2022&lt;/h2>
+&lt;h2 id="2021">2021&lt;/h2>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/van-binsbergen-dynamic-2022/" >Dynamic generation of access control policies from social policies&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/milen-girma-kebede/">Milen Girma Kebede&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/joshua-baugh/">Joshua Baugh&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tom-van-engers/">Tom van Engers&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/dannis-g.-van-vuurden/">Dannis G. van Vuurden&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/van-binsbergen-dynamic-2022/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.procs.2021.12.221" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://linkinghub.elsevier.com/retrieve/pii/S1877050921024601" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;h2 id="2020">2020&lt;/h2>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/van-binsbergen-eflint-2020/" >eFLINT: a domain-specific language for executable norm specifications&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/lu-chi-liu/">Lu-Chi Liu&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/robert-van-doesburg/">Robert van Doesburg&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tom-van-engers/">Tom van Engers&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/van-binsbergen-eflint-2020/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3425898.3426958" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dare.uva.nl/search?identifier=bb19cb35-c43e-4d70-81c9-8b6d3bdaa091" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div></description></item><item><title>A Stable Model Semantics for eFLINT Norm Specifications and Model Checking Scenarios.</title><link>https://cci-research.nl/publication/gpce2025/</link><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/gpce2025/</guid><description/></item><item><title>Recent Academic and Research Milestones</title><link>https://cci-research.nl/post/max-recap/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/max-recap/</guid><description>&lt;p>Max is excited to share some updates from his journey with &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">CCI&lt;/a> over the past few months.&lt;/p>
 &lt;p>One of the highlights was the publication of the paper, “Bridging Incremental Programming and Complex Software Development Environments” (&lt;a href="https://doi.org/10.1145/3689488.3689991" target="_blank" rel="noopener">DOI&lt;/a>), which he had the privilege of presenting at &lt;a href="https://2024.splashcon.org/" target="_blank" rel="noopener">SPLASH 2024&lt;/a> (&lt;a href="https://2024.splashcon.org/home/paint-2024" target="_blank" rel="noopener">PAINT&lt;/a>) in Pasadena, California, last October. He attended the conference alongside Chris, Damien, and Thomas, who also delivered their own presentations (&lt;a href="https://cci-research.nl/post/splash-conf-2024/" target="_blank" rel="noopener">post&lt;/a>). Sharing his work and receiving insightful feedback from so many brilliant minds marked a significant milestone.&lt;/p>
 &lt;p>On the academic front, Max is in the final stages of his master&amp;rsquo;s thesis and is preparing for his defense later this month. Additionally, he recently began working part-time as a Student Research Assistant at CCI to continue the research from his thesis.&lt;/p>
 &lt;p>He looks forward to building on these experiences as he continues his work with CCI.&lt;/p></description></item><item><title>DYNAMOS</title><link>https://cci-research.nl/software/dynamos/</link><pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/software/dynamos/</guid><description>&lt;p>The exchange of sensitive data is governed by numerous regulations and policies. Currently, many of the processes for monitoring and enforcing these regulations are performed manually. &lt;a href="https://github.com/Jorrit05/DYNAMOS" target="_blank" rel="noopener">DYNAMOS&lt;/a> (Dynamically Adaptive Microservice-based OS) is a data exchange middleware system that is designed to be self-adaptive, employing extensible algorithms to dynamically generate microservice compositions and select archetype patterns based on policy, user input, or system events. DYNAMOS makes use of sidecars for communication abstraction, protocol buffers for strict interface definition, and ephemeral single-use jobs for enhanced security as pivotal strategies. In conclusion, DYNAMOS demonstrates the potential for creating a more efficient and secure data exchange environment, enabling businesses and researchers to share information while maintaining control over their data.&lt;/p>
