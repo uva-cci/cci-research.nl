@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link><atom:link href="https://cci-research.nl/index.xml" rel="self" type="application/rss+xml"/><description>Complex Cyber-Infrastructures (CCI)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link></image><item><title>JustAct: A Framework for Auditable Multi-Agent Systems Regulated by Inter-Organisational Policies.</title><link>https://cci-research.nl/publication/esterhuyse-justact-lmcs/</link><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/esterhuyse-justact-lmcs/</guid><description/></item><item><title>UVA at Supercomputing 2025 in St. Louis</title><link>https://cci-research.nl/post/supercomputing-2025/</link><pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/supercomputing-2025/</guid><description>&lt;p>We’re happy to share some highlights from the jointed participation of &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">Complex Cyber Infrastructure&lt;/a> and &lt;a href="https://mns-research.nl/" target="_blank" rel="noopener">Multiscale Networked Systems&lt;/a> in &lt;a href="https://sc25.supercomputing.org/" target="_blank" rel="noopener">Supercomputing 2025&lt;/a> in St Louis. The UVA team included &lt;a href="https://cci-research.nl/author/sander-klous/" target="_blank" rel="noopener">Sander Klous&lt;/a>, &lt;a href="https://www.linkedin.com/in/anestisdalgkitsis/" target="_blank" rel="noopener">Anestis Dalgitsis&lt;/a>, &lt;a href="https://cci-research.nl/author/alexandros-koufakis/" target="_blank" rel="noopener">Alexandros Koufakis&lt;/a>, &lt;a href="https://cci-research.nl/author/cees-de-laat/" target="_blank" rel="noopener">Cees de Laat&lt;/a> (left to right on picture) and &lt;a href="https://www.uva.nl/profiel/g/r/p.grosso/p.grosso.html" target="_blank" rel="noopener">Paola Grosso&lt;/a> (not pictured).&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link><atom:link href="https://cci-research.nl/index.xml" rel="self" type="application/rss+xml"/><description>Complex Cyber-Infrastructures (CCI)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2026 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link></image><item><title>P4Check: Verification and Debugging for Stateful P4 Programs</title><link>https://cci-research.nl/publication/pacciani-p4check-2026/</link><pubDate>Mon, 07 Dec 2026 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/pacciani-p4check-2026/</guid><description/></item><item><title>JustAct: A Framework for Auditable Multi-Agent Systems Regulated by Inter-Organisational Policies.</title><link>https://cci-research.nl/publication/esterhuyse-justact-lmcs/</link><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/esterhuyse-justact-lmcs/</guid><description/></item><item><title>UVA at Supercomputing 2025 in St. Louis</title><link>https://cci-research.nl/post/supercomputing-2025/</link><pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/supercomputing-2025/</guid><description>&lt;p>We’re happy to share some highlights from the jointed participation of &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">Complex Cyber Infrastructure&lt;/a> and &lt;a href="https://mns-research.nl/" target="_blank" rel="noopener">Multiscale Networked Systems&lt;/a> in &lt;a href="https://sc25.supercomputing.org/" target="_blank" rel="noopener">Supercomputing 2025&lt;/a> in St Louis. The UVA team included &lt;a href="https://cci-research.nl/author/sander-klous/" target="_blank" rel="noopener">Sander Klous&lt;/a>, &lt;a href="https://www.linkedin.com/in/anestisdalgkitsis/" target="_blank" rel="noopener">Anestis Dalgitsis&lt;/a>, &lt;a href="https://cci-research.nl/author/alexandros-koufakis/" target="_blank" rel="noopener">Alexandros Koufakis&lt;/a>, &lt;a href="https://cci-research.nl/author/cees-de-laat/" target="_blank" rel="noopener">Cees de Laat&lt;/a> (left to right on picture) and &lt;a href="https://www.uva.nl/profiel/g/r/p.grosso/p.grosso.html" target="_blank" rel="noopener">Paola Grosso&lt;/a> (not pictured).&lt;/p>
 &lt;p>We showcased the results of two distinct research efforts. The first project, led by Anestis, focused on &lt;strong>LLM-Based Optimization Algorithm Selection for High-Performance Networks Orchestration&lt;/strong>. The second, led by Alexandros, demonstrated &lt;strong>Policy-aware Distributed Vertical Federated Learning infrastructure&lt;/strong>. Both works used the &lt;a href="https://portal.fabric-testbed.net/" target="_blank" rel="noopener">FABRIC&lt;/a> testbed and live demonstrations took place at the &lt;a href="https://www.ciena.com/" target="_blank" rel="noopener">CIENA&lt;/a> booth. The demonstrations used CIENA&amp;rsquo;s mobile FABRIC node (pictured above).&lt;/p>
 &lt;p>The &lt;em>LLM-Based Optimization&lt;/em> work was published and presented on the &lt;a href="https://scinet.supercomputing.org/community/indis/" target="_blank" rel="noopener">&lt;em>&amp;ldquo;Innovating the Network for Data-Intensive Science&amp;rdquo; (INDIS)&lt;/em>&lt;/a> workshop. Both projects were featured on the &lt;a href="https://renci.org/" target="_blank" rel="noopener">RENCI&lt;/a> booth as examples of innovative research enabled by the FABRIC infrastructure. Additionally, they were presented on the &lt;a href="https://scinethpc.ca/" target="_blank" rel="noopener">SciNet&lt;/a> theater on the exhibition floor.&lt;/p>
 &lt;p>&lt;img src="./Scinet_Anestis_presentation.jpg" alt="RENCI presentation">
@@ -51,6 +51,34 @@ Project
 &lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.46298/lmcs-22%283:9%292026" target="_blank" rel="noopener">
 DOI
 &lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/pacciani-p4check-2026/" >P4Check: Verification and Debugging for Stateful P4 Programs&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/pacciani-p4check-2026/" class="summary-link">
+&lt;div class="article-style">
+Programmable data planes increasingly rely on stateful P4 programs to implement complex in-network functions. However, verifying and …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/tommaso-pacciani/">Tommaso Pacciani&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/chrysa-papagianni/">Chrysa Papagianni&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://tommasopacciani.com/assets/europ4-2026-preprint.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/pacciani-p4check-2026/cite.bib">
+Cite
+&lt;/button>
 &lt;/div>
 &lt;/div>
 &lt;div class="ml-3">
@@ -112,6 +140,62 @@ Cite
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3742876.3742882" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/pacciani-p4ddg-2025/" >P4DDG: Data-Dependent Grammars for Packet Specification and Parsing in P4&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/pacciani-p4ddg-2025/" class="summary-link">
+&lt;div class="article-style">
+In software-defined networking, the domain-specific language P4 allows developers to program the behavior of networking devices at a …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/tommaso-pacciani/">Tommaso Pacciani&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/damian-frolich/">Damian Frolich&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/chrysa-papagianni/">Chrysa Papagianni&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/pacciani-p4ddg-2025/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3742876.3742879" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/frolich-mvd-2025/" >Exploratory, Omniscient, and Multiverse Diagnostics in Debuggers for Non-Deterministic Languages&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/frolich-mvd-2025/" class="summary-link">
+&lt;div class="article-style">
+Debugging non-deterministic programs is inherently difficult as the compound effects of non-deterministic execution steps is hard to …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/damian-frolich/">Damian Frolich&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tommaso-pacciani/">Tommaso Pacciani&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/frolich-mvd-2025/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3732771.3742719" target="_blank" rel="noopener">
 DOI
 &lt;/a>
 &lt;/div>
@@ -245,7 +329,7 @@ URL
 &lt;/div>
 &lt;div class="ml-3">
 &lt;/div>
-&lt;/div></description></item><item><title>A Stable Model Semantics for eFLINT Norm Specifications and Model Checking Scenarios.</title><link>https://cci-research.nl/publication/gpce2025/</link><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/gpce2025/</guid><description/></item><item><title>Formal Foundations for Reowolf: Multi-party Sessions via Synchronous Protocol Programming.</title><link>https://cci-research.nl/publication/esterhuyse-reowolf-coordination/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/esterhuyse-reowolf-coordination/</guid><description/></item><item><title>Recent Academic and Research Milestones</title><link>https://cci-research.nl/post/max-recap/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/max-recap/</guid><description>&lt;p>Max is excited to share some updates from his journey with &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">CCI&lt;/a> over the past few months.&lt;/p>
+&lt;/div></description></item><item><title>A Stable Model Semantics for eFLINT Norm Specifications and Model Checking Scenarios.</title><link>https://cci-research.nl/publication/gpce2025/</link><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/gpce2025/</guid><description/></item><item><title>P4DDG: Data-Dependent Grammars for Packet Specification and Parsing in P4</title><link>https://cci-research.nl/publication/pacciani-p4ddg-2025/</link><pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/pacciani-p4ddg-2025/</guid><description/></item><item><title>Formal Foundations for Reowolf: Multi-party Sessions via Synchronous Protocol Programming.</title><link>https://cci-research.nl/publication/esterhuyse-reowolf-coordination/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/esterhuyse-reowolf-coordination/</guid><description/></item><item><title>Exploratory, Omniscient, and Multiverse Diagnostics in Debuggers for Non-Deterministic Languages</title><link>https://cci-research.nl/publication/frolich-mvd-2025/</link><pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/frolich-mvd-2025/</guid><description/></item><item><title>Recent Academic and Research Milestones</title><link>https://cci-research.nl/post/max-recap/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/max-recap/</guid><description>&lt;p>Max is excited to share some updates from his journey with &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">CCI&lt;/a> over the past few months.&lt;/p>
 &lt;p>One of the highlights was the publication of the paper, “Bridging Incremental Programming and Complex Software Development Environments” (&lt;a href="https://doi.org/10.1145/3689488.3689991" target="_blank" rel="noopener">DOI&lt;/a>), which he had the privilege of presenting at &lt;a href="https://2024.splashcon.org/" target="_blank" rel="noopener">SPLASH 2024&lt;/a> (&lt;a href="https://2024.splashcon.org/home/paint-2024" target="_blank" rel="noopener">PAINT&lt;/a>) in Pasadena, California, last October. He attended the conference alongside Chris, Damien, and Thomas, who also delivered their own presentations (&lt;a href="https://cci-research.nl/post/splash-conf-2024/" target="_blank" rel="noopener">post&lt;/a>). Sharing his work and receiving insightful feedback from so many brilliant minds marked a significant milestone.&lt;/p>
 &lt;p>On the academic front, Max is in the final stages of his master&amp;rsquo;s thesis and is preparing for his defense later this month. Additionally, he recently began working part-time as a Student Research Assistant at CCI to continue the research from his thesis.&lt;/p>
 &lt;p>He looks forward to building on these experiences as he continues his work with CCI.&lt;/p></description></item><item><title>DYNAMOS</title><link>https://cci-research.nl/software/dynamos/</link><pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/software/dynamos/</guid><description>&lt;p>The exchange of sensitive data is governed by numerous regulations and policies. Currently, many of the processes for monitoring and enforcing these regulations are performed manually. &lt;a href="https://github.com/DYNAMOS-UVA" target="_blank" rel="noopener">DYNAMOS&lt;/a> (Dynamically Adaptive Microservice-based OS) is a data exchange middleware system that is designed to be self-adaptive, employing extensible algorithms to dynamically generate microservice compositions and select archetype patterns based on policy, user input, or system events. DYNAMOS makes use of sidecars for communication abstraction, protocol buffers for strict interface definition, and ephemeral single-use jobs for enhanced security as pivotal strategies. In conclusion, DYNAMOS demonstrates the potential for creating a more efficient and secure data exchange environment, enabling businesses and researchers to share information while maintaining control over their data.&lt;/p>

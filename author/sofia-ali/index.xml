@@ -41,6 +41,34 @@ DOI
 &lt;div class="ml-3">
 &lt;/div>
 &lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/pacciani-p4check-2026/" >P4Check: Verification and Debugging for Stateful P4 Programs&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/pacciani-p4check-2026/" class="summary-link">
+&lt;div class="article-style">
+Programmable data planes increasingly rely on stateful P4 programs to implement complex in-network functions. However, verifying and …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/tommaso-pacciani/">Tommaso Pacciani&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/chrysa-papagianni/">Chrysa Papagianni&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://tommasopacciani.com/assets/europ4-2026-preprint.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/pacciani-p4check-2026/cite.bib">
+Cite
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
 &lt;/p>
 &lt;h2 id="2025">2025&lt;/h2>
 &lt;p>
@@ -97,6 +125,62 @@ Cite
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3742876.3742882" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/pacciani-p4ddg-2025/" >P4DDG: Data-Dependent Grammars for Packet Specification and Parsing in P4&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/pacciani-p4ddg-2025/" class="summary-link">
+&lt;div class="article-style">
+In software-defined networking, the domain-specific language P4 allows developers to program the behavior of networking devices at a …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/tommaso-pacciani/">Tommaso Pacciani&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/damian-frolich/">Damian Frolich&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/chrysa-papagianni/">Chrysa Papagianni&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/pacciani-p4ddg-2025/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3742876.3742879" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/frolich-mvd-2025/" >Exploratory, Omniscient, and Multiverse Diagnostics in Debuggers for Non-Deterministic Languages&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/frolich-mvd-2025/" class="summary-link">
+&lt;div class="article-style">
+Debugging non-deterministic programs is inherently difficult as the compound effects of non-deterministic execution steps is hard to …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/damian-frolich/">Damian Frolich&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tommaso-pacciani/">Tommaso Pacciani&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/frolich-mvd-2025/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3732771.3742719" target="_blank" rel="noopener">
 DOI
 &lt;/a>
 &lt;/div>

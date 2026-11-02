@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tommaso Pacciani | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/author/tommaso-pacciani/</link><atom:link href="https://cci-research.nl/author/tommaso-pacciani/index.xml" rel="self" type="application/rss+xml"/><description>Tommaso Pacciani</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Tommaso Pacciani</title><link>https://cci-research.nl/author/tommaso-pacciani/</link></image><item><title>Programming Languages and Verification</title><link>https://cci-research.nl/theme/languagesandverification/</link><pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/theme/languagesandverification/</guid><description>&lt;p>The Programming Languages and Verification team is developing language engineering and verification techniques for the rapid development of domain-specific languages, specification languages and tools for editing, running and verifying programs in such languages. Case studies are provided by legal specification languages (e.g., eFLINT), protocol specification languages (Reowolf) and programmable networks (P4). The meta-languages developed by the team are used for conducting research into general-purpose programming languages. Of specific interest are functional programming, logic programming, theorem provers, model checking, definitional interpreters, and formal semantics.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tommaso Pacciani | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/author/tommaso-pacciani/</link><atom:link href="https://cci-research.nl/author/tommaso-pacciani/index.xml" rel="self" type="application/rss+xml"/><description>Tommaso Pacciani</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2026 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Tommaso Pacciani</title><link>https://cci-research.nl/author/tommaso-pacciani/</link></image><item><title>P4Check: Verification and Debugging for Stateful P4 Programs</title><link>https://cci-research.nl/publication/pacciani-p4check-2026/</link><pubDate>Mon, 07 Dec 2026 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/pacciani-p4check-2026/</guid><description/></item><item><title>Programming Languages and Verification</title><link>https://cci-research.nl/theme/languagesandverification/</link><pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/theme/languagesandverification/</guid><description>&lt;p>The Programming Languages and Verification team is developing language engineering and verification techniques for the rapid development of domain-specific languages, specification languages and tools for editing, running and verifying programs in such languages. Case studies are provided by legal specification languages (e.g., eFLINT), protocol specification languages (Reowolf) and programmable networks (P4). The meta-languages developed by the team are used for conducting research into general-purpose programming languages. Of specific interest are functional programming, logic programming, theorem provers, model checking, definitional interpreters, and formal semantics.&lt;/p>
 &lt;h1 id="software">Software&lt;/h1>
 &lt;p>&lt;a href="https://cci-research.nl/software/eflint/">&lt;img src="https://cci-research.nl/software/eflint/featured.png" width=200 style="display: inline;"/>&lt;/a>&lt;/p>
 &lt;h1 id="publications">Publications&lt;/h1>
@@ -36,6 +36,34 @@ Project
 &lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.46298/lmcs-22%283:9%292026" target="_blank" rel="noopener">
 DOI
 &lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/pacciani-p4check-2026/" >P4Check: Verification and Debugging for Stateful P4 Programs&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/pacciani-p4check-2026/" class="summary-link">
+&lt;div class="article-style">
+Programmable data planes increasingly rely on stateful P4 programs to implement complex in-network functions. However, verifying and …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/tommaso-pacciani/">Tommaso Pacciani&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/chrysa-papagianni/">Chrysa Papagianni&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://tommasopacciani.com/assets/europ4-2026-preprint.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/pacciani-p4check-2026/cite.bib">
+Cite
+&lt;/button>
 &lt;/div>
 &lt;/div>
 &lt;div class="ml-3">
@@ -97,6 +125,62 @@ Cite
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3742876.3742882" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/pacciani-p4ddg-2025/" >P4DDG: Data-Dependent Grammars for Packet Specification and Parsing in P4&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/pacciani-p4ddg-2025/" class="summary-link">
+&lt;div class="article-style">
+In software-defined networking, the domain-specific language P4 allows developers to program the behavior of networking devices at a …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/tommaso-pacciani/">Tommaso Pacciani&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/damian-frolich/">Damian Frolich&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/chrysa-papagianni/">Chrysa Papagianni&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/pacciani-p4ddg-2025/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3742876.3742879" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/frolich-mvd-2025/" >Exploratory, Omniscient, and Multiverse Diagnostics in Debuggers for Non-Deterministic Languages&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/frolich-mvd-2025/" class="summary-link">
+&lt;div class="article-style">
+Debugging non-deterministic programs is inherently difficult as the compound effects of non-deterministic execution steps is hard to …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/damian-frolich/">Damian Frolich&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tommaso-pacciani/">Tommaso Pacciani&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/frolich-mvd-2025/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3732771.3742719" target="_blank" rel="noopener">
 DOI
 &lt;/a>
 &lt;/div>
@@ -230,4 +314,4 @@ URL
 &lt;/div>
 &lt;div class="ml-3">
 &lt;/div>
-&lt;/div></description></item></channel></rss>
+&lt;/div></description></item><item><title>P4DDG: Data-Dependent Grammars for Packet Specification and Parsing in P4</title><link>https://cci-research.nl/publication/pacciani-p4ddg-2025/</link><pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/pacciani-p4ddg-2025/</guid><description/></item><item><title>Exploratory, Omniscient, and Multiverse Diagnostics in Debuggers for Non-Deterministic Languages</title><link>https://cci-research.nl/publication/frolich-mvd-2025/</link><pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/frolich-mvd-2025/</guid><description/></item></channel></rss>
