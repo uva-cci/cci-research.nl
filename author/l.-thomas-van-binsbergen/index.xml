@@ -1,9 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>L. Thomas van Binsbergen | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/author/l.-thomas-van-binsbergen/</link><atom:link href="https://cci-research.nl/author/l.-thomas-van-binsbergen/index.xml" rel="self" type="application/rss+xml"/><description>L. Thomas van Binsbergen</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>L. Thomas van Binsbergen</title><link>https://cci-research.nl/author/l.-thomas-van-binsbergen/</link></image><item><title>Programming Languages and Verification</title><link>https://cci-research.nl/theme/languagesandverification/</link><pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/theme/languagesandverification/</guid><description>&lt;p>The Programming Languages and Verification team is developing language engineering and verification techniques for the rapid development of domain-specific languages, specification languages and tools for editing, running and verifying programs in such languages. Case studies are provided by legal specification languages (e.g., eFLINT), protocol specification languages (Reowolf) and programmable networks (P4). The meta-languages developed by the team are used for conducting research into general-purpose programming languages. Of specific interest are functional programming, logic programming, theorem provers, model checking, definitional interpreters, and formal semantics.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>L. Thomas van Binsbergen | Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/author/l.-thomas-van-binsbergen/</link><atom:link href="https://cci-research.nl/author/l.-thomas-van-binsbergen/index.xml" rel="self" type="application/rss+xml"/><description>L. Thomas van Binsbergen</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>L. Thomas van Binsbergen</title><link>https://cci-research.nl/author/l.-thomas-van-binsbergen/</link></image><item><title>JustAct: A Framework for Auditable Multi-Agent Systems Regulated by Inter-Organisational Policies.</title><link>https://cci-research.nl/publication/esterhuyse-justact-lmcs/</link><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/esterhuyse-justact-lmcs/</guid><description/></item><item><title>Programming Languages and Verification</title><link>https://cci-research.nl/theme/languagesandverification/</link><pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/theme/languagesandverification/</guid><description>&lt;p>The Programming Languages and Verification team is developing language engineering and verification techniques for the rapid development of domain-specific languages, specification languages and tools for editing, running and verifying programs in such languages. Case studies are provided by legal specification languages (e.g., eFLINT), protocol specification languages (Reowolf) and programmable networks (P4). The meta-languages developed by the team are used for conducting research into general-purpose programming languages. Of specific interest are functional programming, logic programming, theorem provers, model checking, definitional interpreters, and formal semantics.&lt;/p>
 &lt;h1 id="software">Software&lt;/h1>
 &lt;p>&lt;a href="https://cci-research.nl/software/eflint/">&lt;img src="https://cci-research.nl/software/eflint/featured.png" width=200 style="display: inline;"/>&lt;/a>&lt;/p>
 &lt;h1 id="publications">Publications&lt;/h1>
 &lt;h2 id="2026">2026&lt;/h2>
+&lt;p>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/esterhuyse-justact-lmcs/" >JustAct: A Framework for Auditable Multi-Agent Systems Regulated by Inter-Organisational Policies.&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/esterhuyse-justact-lmcs/" class="summary-link">
+&lt;div class="article-style">
+This extended article presents the JustAct framework, for distributed systems of decentralised control over how normative policy …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/christopher-esterhuyse/">Christopher Esterhuyse&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tim-muller/">Tim Müller&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/esterhuyse-justact-lmcs/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/dmi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/epi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.46298/lmcs-22%283:9%292026" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;/p>
 &lt;h2 id="2025">2025&lt;/h2>
+&lt;p>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/esterhuyse-reowolf-coordination/" >Formal Foundations for Reowolf: Multi-party Sessions via Synchronous Protocol Programming.&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/esterhuyse-reowolf-coordination/" class="summary-link">
+&lt;div class="article-style">
+Presenting the theory of the Reowolf project, its protocol language and runtime system, as formalised in Rocq. Reowolf was developed to …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/christopher-esterhuyse/">Christopher Esterhuyse&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/esterhuyse-reowolf-coordination/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/dmi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-031-95589-1_1" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
 &lt;div class="media stream-item">
 &lt;div class="media-body">
 &lt;h3 class="article-title mb-0 mt-0">
@@ -30,6 +104,79 @@ DOI
 &lt;div class="ml-3">
 &lt;/div>
 &lt;/div>
+&lt;/p>
+&lt;h2 id="2024">2024&lt;/h2>
+&lt;p>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/esterhuyse-cooperative/" >Cooperative Specification via Composition Control.&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/esterhuyse-cooperative/" class="summary-link">
+&lt;div class="article-style">
+Specification languages are useful for expressing what a program or system should do. But what if specifications are assembled by …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/christopher-esterhuyse/">Christopher Esterhuyse&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/esterhuyse-cooperative/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/dmi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3687997.3695635" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/just-act-2024/" >JustAct: Actions Universally Justified by Partial Dynamic Policies&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/christopher-esterhuyse/">Christopher Esterhuyse&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tim-muller/">Tim Müller&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/just-act-2024/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/dmi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/epi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-031-62645-6_4" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://link.springer.com/chapter/10.1007/978-3-031-62645-6_4" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;/p>
 &lt;h2 id="2021">2021&lt;/h2>
 &lt;div class="media stream-item">
 &lt;div class="media-body">
@@ -83,7 +230,7 @@ URL
 &lt;/div>
 &lt;div class="ml-3">
 &lt;/div>
-&lt;/div></description></item><item><title>A Stable Model Semantics for eFLINT Norm Specifications and Model Checking Scenarios.</title><link>https://cci-research.nl/publication/gpce2025/</link><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/gpce2025/</guid><description/></item><item><title>3 Papers Accepted at SPLASH 2024</title><link>https://cci-research.nl/post/splash-conf-2024/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/splash-conf-2024/</guid><description>&lt;p>Members of the &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">Complex Cyber Infrastructure&lt;/a> group have been hard at work on the topic of software languages, developing methods and tools improving the productivity and control of programmers and language-designers.
+&lt;/div></description></item><item><title>A Stable Model Semantics for eFLINT Norm Specifications and Model Checking Scenarios.</title><link>https://cci-research.nl/publication/gpce2025/</link><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/gpce2025/</guid><description/></item><item><title>Cooperative Specification via Composition Control.</title><link>https://cci-research.nl/publication/esterhuyse-cooperative/</link><pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/esterhuyse-cooperative/</guid><description/></item><item><title>3 Papers Accepted at SPLASH 2024</title><link>https://cci-research.nl/post/splash-conf-2024/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/splash-conf-2024/</guid><description>&lt;p>Members of the &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">Complex Cyber Infrastructure&lt;/a> group have been hard at work on the topic of software languages, developing methods and tools improving the productivity and control of programmers and language-designers.
 The latest contributions are being published in three articles, which will each be presented at &lt;a href="https://2024.splashcon.org/" target="_blank" rel="noopener">SPLASH 2024&lt;/a> in Pasadena, California.
 Each contribution provides a piece of the puzzle of developing large and complex software systems:&lt;/p>
 &lt;ol>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link><atom:link href="https://cci-research.nl/index.xml" rel="self" type="application/rss+xml"/><description>Complex Cyber-Infrastructures (CCI)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link></image><item><title>UVA at Supercomputing 2025 in St. Louis</title><link>https://cci-research.nl/post/supercomputing-2025/</link><pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/supercomputing-2025/</guid><description>&lt;p>We’re happy to share some highlights from the jointed participation of &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">Complex Cyber Infrastructure&lt;/a> and &lt;a href="https://mns-research.nl/" target="_blank" rel="noopener">Multiscale Networked Systems&lt;/a> in &lt;a href="https://sc25.supercomputing.org/" target="_blank" rel="noopener">Supercomputing 2025&lt;/a> in St Louis. The UVA team included &lt;a href="https://cci-research.nl/author/sander-klous/" target="_blank" rel="noopener">Sander Klous&lt;/a>, &lt;a href="https://www.linkedin.com/in/anestisdalgkitsis/" target="_blank" rel="noopener">Anestis Dalgitsis&lt;/a>, &lt;a href="https://cci-research.nl/author/alexandros-koufakis/" target="_blank" rel="noopener">Alexandros Koufakis&lt;/a>, &lt;a href="https://cci-research.nl/author/cees-de-laat/" target="_blank" rel="noopener">Cees de Laat&lt;/a> (left to right on picture) and &lt;a href="https://www.uva.nl/profiel/g/r/p.grosso/p.grosso.html" target="_blank" rel="noopener">Paola Grosso&lt;/a> (not pictured).&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link><atom:link href="https://cci-research.nl/index.xml" rel="self" type="application/rss+xml"/><description>Complex Cyber-Infrastructures (CCI)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate><image><url>https://cci-research.nl/images/logo_hu5a1000236f6e181a977795e6532452c2_304385_300x300_fit_lanczos_3.png</url><title>Complex Cyber-Infrastructures (CCI)</title><link>https://cci-research.nl/</link></image><item><title>JustAct: A Framework for Auditable Multi-Agent Systems Regulated by Inter-Organisational Policies.</title><link>https://cci-research.nl/publication/esterhuyse-justact-lmcs/</link><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/esterhuyse-justact-lmcs/</guid><description/></item><item><title>UVA at Supercomputing 2025 in St. Louis</title><link>https://cci-research.nl/post/supercomputing-2025/</link><pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/supercomputing-2025/</guid><description>&lt;p>We’re happy to share some highlights from the jointed participation of &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">Complex Cyber Infrastructure&lt;/a> and &lt;a href="https://mns-research.nl/" target="_blank" rel="noopener">Multiscale Networked Systems&lt;/a> in &lt;a href="https://sc25.supercomputing.org/" target="_blank" rel="noopener">Supercomputing 2025&lt;/a> in St Louis. The UVA team included &lt;a href="https://cci-research.nl/author/sander-klous/" target="_blank" rel="noopener">Sander Klous&lt;/a>, &lt;a href="https://www.linkedin.com/in/anestisdalgkitsis/" target="_blank" rel="noopener">Anestis Dalgitsis&lt;/a>, &lt;a href="https://cci-research.nl/author/alexandros-koufakis/" target="_blank" rel="noopener">Alexandros Koufakis&lt;/a>, &lt;a href="https://cci-research.nl/author/cees-de-laat/" target="_blank" rel="noopener">Cees de Laat&lt;/a> (left to right on picture) and &lt;a href="https://www.uva.nl/profiel/g/r/p.grosso/p.grosso.html" target="_blank" rel="noopener">Paola Grosso&lt;/a> (not pictured).&lt;/p>
 &lt;p>We showcased the results of two distinct research efforts. The first project, led by Anestis, focused on &lt;strong>LLM-Based Optimization Algorithm Selection for High-Performance Networks Orchestration&lt;/strong>. The second, led by Alexandros, demonstrated &lt;strong>Policy-aware Distributed Vertical Federated Learning infrastructure&lt;/strong>. Both works used the &lt;a href="https://portal.fabric-testbed.net/" target="_blank" rel="noopener">FABRIC&lt;/a> testbed and live demonstrations took place at the &lt;a href="https://www.ciena.com/" target="_blank" rel="noopener">CIENA&lt;/a> booth. The demonstrations used CIENA&amp;rsquo;s mobile FABRIC node (pictured above).&lt;/p>
 &lt;p>The &lt;em>LLM-Based Optimization&lt;/em> work was published and presented on the &lt;a href="https://scinet.supercomputing.org/community/indis/" target="_blank" rel="noopener">&lt;em>&amp;ldquo;Innovating the Network for Data-Intensive Science&amp;rdquo; (INDIS)&lt;/em>&lt;/a> workshop. Both projects were featured on the &lt;a href="https://renci.org/" target="_blank" rel="noopener">RENCI&lt;/a> booth as examples of innovative research enabled by the FABRIC infrastructure. Additionally, they were presented on the &lt;a href="https://scinethpc.ca/" target="_blank" rel="noopener">SciNet&lt;/a> theater on the exhibition floor.&lt;/p>
 &lt;p>&lt;img src="./Scinet_Anestis_presentation.jpg" alt="RENCI presentation">
@@ -18,7 +18,81 @@
 &lt;p>&lt;a href="https://cci-research.nl/software/eflint/">&lt;img src="https://cci-research.nl/software/eflint/featured.png" width=200 style="display: inline;"/>&lt;/a>&lt;/p>
 &lt;h1 id="publications">Publications&lt;/h1>
 &lt;h2 id="2026">2026&lt;/h2>
+&lt;p>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/esterhuyse-justact-lmcs/" >JustAct: A Framework for Auditable Multi-Agent Systems Regulated by Inter-Organisational Policies.&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/esterhuyse-justact-lmcs/" class="summary-link">
+&lt;div class="article-style">
+This extended article presents the JustAct framework, for distributed systems of decentralised control over how normative policy …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/christopher-esterhuyse/">Christopher Esterhuyse&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tim-muller/">Tim Müller&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/esterhuyse-justact-lmcs/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/dmi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/epi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.46298/lmcs-22%283:9%292026" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;/p>
 &lt;h2 id="2025">2025&lt;/h2>
+&lt;p>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/esterhuyse-reowolf-coordination/" >Formal Foundations for Reowolf: Multi-party Sessions via Synchronous Protocol Programming.&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/esterhuyse-reowolf-coordination/" class="summary-link">
+&lt;div class="article-style">
+Presenting the theory of the Reowolf project, its protocol language and runtime system, as formalised in Rocq. Reowolf was developed to …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/christopher-esterhuyse/">Christopher Esterhuyse&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/esterhuyse-reowolf-coordination/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/dmi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-031-95589-1_1" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
 &lt;div class="media stream-item">
 &lt;div class="media-body">
 &lt;h3 class="article-title mb-0 mt-0">
@@ -45,6 +119,79 @@ DOI
 &lt;div class="ml-3">
 &lt;/div>
 &lt;/div>
+&lt;/p>
+&lt;h2 id="2024">2024&lt;/h2>
+&lt;p>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/esterhuyse-cooperative/" >Cooperative Specification via Composition Control.&lt;/a>
+&lt;/h3>
+&lt;a href="https://cci-research.nl/publication/esterhuyse-cooperative/" class="summary-link">
+&lt;div class="article-style">
+Specification languages are useful for expressing what a program or system should do. But what if specifications are assembled by …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/christopher-esterhuyse/">Christopher Esterhuyse&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/esterhuyse-cooperative/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/dmi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3687997.3695635" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item">
+&lt;div class="media-body">
+&lt;h3 class="article-title mb-0 mt-0">
+&lt;a href="https://cci-research.nl/publication/just-act-2024/" >JustAct: Actions Universally Justified by Partial Dynamic Policies&lt;/a>
+&lt;/h3>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >&lt;a href="https://cci-research.nl/author/christopher-esterhuyse/">Christopher Esterhuyse&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/tim-muller/">Tim Müller&lt;/a>&lt;/span>, &lt;span >&lt;a href="https://cci-research.nl/author/l.-thomas-van-binsbergen/">L. Thomas van Binsbergen&lt;/a>&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/just-act-2024/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/amdex/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/dmi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cci-research.nl/project/epi/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-031-62645-6_4" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://link.springer.com/chapter/10.1007/978-3-031-62645-6_4" target="_blank" rel="noopener">
+URL
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;/p>
 &lt;h2 id="2021">2021&lt;/h2>
 &lt;div class="media stream-item">
 &lt;div class="media-body">
@@ -98,7 +245,7 @@ URL
 &lt;/div>
 &lt;div class="ml-3">
 &lt;/div>
-&lt;/div></description></item><item><title>A Stable Model Semantics for eFLINT Norm Specifications and Model Checking Scenarios.</title><link>https://cci-research.nl/publication/gpce2025/</link><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/gpce2025/</guid><description/></item><item><title>Recent Academic and Research Milestones</title><link>https://cci-research.nl/post/max-recap/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/max-recap/</guid><description>&lt;p>Max is excited to share some updates from his journey with &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">CCI&lt;/a> over the past few months.&lt;/p>
+&lt;/div></description></item><item><title>A Stable Model Semantics for eFLINT Norm Specifications and Model Checking Scenarios.</title><link>https://cci-research.nl/publication/gpce2025/</link><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/gpce2025/</guid><description/></item><item><title>Formal Foundations for Reowolf: Multi-party Sessions via Synchronous Protocol Programming.</title><link>https://cci-research.nl/publication/esterhuyse-reowolf-coordination/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/esterhuyse-reowolf-coordination/</guid><description/></item><item><title>Recent Academic and Research Milestones</title><link>https://cci-research.nl/post/max-recap/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/max-recap/</guid><description>&lt;p>Max is excited to share some updates from his journey with &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">CCI&lt;/a> over the past few months.&lt;/p>
 &lt;p>One of the highlights was the publication of the paper, “Bridging Incremental Programming and Complex Software Development Environments” (&lt;a href="https://doi.org/10.1145/3689488.3689991" target="_blank" rel="noopener">DOI&lt;/a>), which he had the privilege of presenting at &lt;a href="https://2024.splashcon.org/" target="_blank" rel="noopener">SPLASH 2024&lt;/a> (&lt;a href="https://2024.splashcon.org/home/paint-2024" target="_blank" rel="noopener">PAINT&lt;/a>) in Pasadena, California, last October. He attended the conference alongside Chris, Damien, and Thomas, who also delivered their own presentations (&lt;a href="https://cci-research.nl/post/splash-conf-2024/" target="_blank" rel="noopener">post&lt;/a>). Sharing his work and receiving insightful feedback from so many brilliant minds marked a significant milestone.&lt;/p>
 &lt;p>On the academic front, Max is in the final stages of his master&amp;rsquo;s thesis and is preparing for his defense later this month. Additionally, he recently began working part-time as a Student Research Assistant at CCI to continue the research from his thesis.&lt;/p>
 &lt;p>He looks forward to building on these experiences as he continues his work with CCI.&lt;/p></description></item><item><title>DYNAMOS</title><link>https://cci-research.nl/software/dynamos/</link><pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate><guid>https://cci-research.nl/software/dynamos/</guid><description>&lt;p>The exchange of sensitive data is governed by numerous regulations and policies. Currently, many of the processes for monitoring and enforcing these regulations are performed manually. &lt;a href="https://github.com/DYNAMOS-UVA" target="_blank" rel="noopener">DYNAMOS&lt;/a> (Dynamically Adaptive Microservice-based OS) is a data exchange middleware system that is designed to be self-adaptive, employing extensible algorithms to dynamically generate microservice compositions and select archetype patterns based on policy, user input, or system events. DYNAMOS makes use of sidecars for communication abstraction, protocol buffers for strict interface definition, and ephemeral single-use jobs for enhanced security as pivotal strategies. In conclusion, DYNAMOS demonstrates the potential for creating a more efficient and secure data exchange environment, enabling businesses and researchers to share information while maintaining control over their data.&lt;/p>
@@ -113,7 +260,7 @@ On November 19, we took to the SCinet Theater on the exhibition floor to show ou
 &lt;p>&lt;strong>Exhibition Floor Action:&lt;/strong>
 Until Thursday, November 21, we were hosted at &lt;a href="https://www.ciena.com/" target="_blank" rel="noopener">CIENA’s&lt;/a> booth, where we continued to showcase our demonstration and connect with visitors from around the world.&lt;/p>
 &lt;p>&lt;strong>Acknowledgements:&lt;/strong>
-We couldn’t have done this without the support from &lt;a href="https://www.ciena.com/" target="_blank" rel="noopener">CIENA&lt;/a> and &lt;a href="https://www.prets.io/" target="_blank" rel="noopener">Prets&lt;/a>.&lt;/p></description></item><item><title>LICORICE Project Kick-off Meeting in Paris</title><link>https://cci-research.nl/post/licorice-kick-off/</link><pubDate>Fri, 04 Oct 2024 14:00:00 +0000</pubDate><guid>https://cci-research.nl/post/licorice-kick-off/</guid><description>&lt;p style="text-align: justify;">
+We couldn’t have done this without the support from &lt;a href="https://www.ciena.com/" target="_blank" rel="noopener">CIENA&lt;/a> and &lt;a href="https://www.prets.io/" target="_blank" rel="noopener">Prets&lt;/a>.&lt;/p></description></item><item><title>Cooperative Specification via Composition Control.</title><link>https://cci-research.nl/publication/esterhuyse-cooperative/</link><pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/publication/esterhuyse-cooperative/</guid><description/></item><item><title>LICORICE Project Kick-off Meeting in Paris</title><link>https://cci-research.nl/post/licorice-kick-off/</link><pubDate>Fri, 04 Oct 2024 14:00:00 +0000</pubDate><guid>https://cci-research.nl/post/licorice-kick-off/</guid><description>&lt;p style="text-align: justify;">
 &lt;p>Following the successful receipt of 4 million EUR in funding from the European Union in 2024, the &lt;a href="https://cci-research.nl/post/licorice-funded/" target="_blank" rel="noopener">LICORICE (reLIable and sCalable tOols foR self-sovereign Identity and data proteCtion framEwork)&lt;/a> Project Working Group convened for a LICORICE Project Kick-off meeting in Paris on October 3rd-4th, 2024. Security researchers from various countries engaged in discussions on cutting-edge research aimed at enhancing digital sovereignty and developing privacy-preserving technologies across Europe. &lt;a href="https://cci-research.nl/author/kanwal-batool/" target="_blank" rel="noopener">Kanwal Batool&lt;/a> represented the &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">CCI research group&lt;/a> from the University of Amsterdam (UvA).&lt;/p>
 &lt;/p></description></item><item><title>3 Papers Accepted at SPLASH 2024</title><link>https://cci-research.nl/post/splash-conf-2024/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate><guid>https://cci-research.nl/post/splash-conf-2024/</guid><description>&lt;p>Members of the &lt;a href="https://cci-research.nl/" target="_blank" rel="noopener">Complex Cyber Infrastructure&lt;/a> group have been hard at work on the topic of software languages, developing methods and tools improving the productivity and control of programmers and language-designers.
 The latest contributions are being published in three articles, which will each be presented at &lt;a href="https://2024.splashcon.org/" target="_blank" rel="noopener">SPLASH 2024&lt;/a> in Pasadena, California.
